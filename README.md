@@ -40,6 +40,8 @@ This project is a **Password Strength Tester and Cracker** developed using **Jav
 - **PasswordTool.java**: The main application that integrates all functionalities.
 
 ## Contributing
+
+Issues here are **first come, first merged**. Assignment is not reservation: if an issue is assigned to someone and you open a working PR first, yours is the one that gets merged. Commenting "I'd like to work on this" is welcome and I'll assign it, but it does not hold the issue against a PR that arrives sooner. If you want an issue, the reliable way to get it is to open the PR.
 1. **Fork the repository**.
 2. **Create a new branch**:
     ```bash
